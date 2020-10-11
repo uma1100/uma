@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/flask/</link>
+    <description>Recent content in Flask on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/flask/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>芸能人似てる度測定</title>
+      <link>https://uma1100.github.io/uma/projects/linefacebot/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/linefacebot/</guid>
+      <description> 概要  人の画像を読み込ませるとそれに対して感情などが返ってくるモノ   内容  face++のDetectとFasesetを用いています。  追加方法  こちら(LINEが必要です)  </description>
+    </item>
+    
+    <item>
+      <title>実質0カロリートースター</title>
+      <link>https://uma1100.github.io/uma/projects/0caltoaster/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/0caltoaster/</guid>
+      <description> 概要  HackDay に参加したときの作品。 ジョイコンとトースター、ラズパイを使っています。 開発環境：web(Flask) 担当箇所：webプログラム全般  内容  二人でバトル形式でジョイコンを動かす。 勝敗が決まりより激しく動いたほうがトースターを食べることができる。  ソースコード  GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>

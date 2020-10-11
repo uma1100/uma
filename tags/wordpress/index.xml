@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wordpress on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/wordpress/</link>
+    <description>Recent content in wordpress on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ZENPENのHP作成</title>
+      <link>https://uma1100.github.io/uma/projects/zenpen_hp/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/zenpen_hp/</guid>
+      <description> 概要  HPのデータ移管、新デザインのテーマ作成をしました。  公開サイト  https://www.zenpen-kosen.com/  </description>
+    </item>
+    
+  </channel>
+</rss>

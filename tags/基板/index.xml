@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>基板 on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/%E5%9F%BA%E6%9D%BF/</link>
+    <description>Recent content in 基板 on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/%E5%9F%BA%E6%9D%BF/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>シガダイゴ</title>
+      <link>https://uma1100.github.io/uma/projects/shigadaigo/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/shigadaigo/</guid>
+      <description> 概要  大分高専時代の作品 担当箇所：電子回路設計   デモ動画  YouTube  </description>
+    </item>
+    
+  </channel>
+</rss>

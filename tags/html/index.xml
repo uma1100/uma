@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/html/</link>
+    <description>Recent content in HTML on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>夢を語るLT会LP</title>
+      <link>https://uma1100.github.io/uma/projects/2019dream_lt_lp/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/2019dream_lt_lp/</guid>
+      <description> 概要  代表をしているNPO法人VineTSの最初のイベントのLPを作成しました。  公開サイト  GitHub Pages  </description>
+    </item>
+    
+    <item>
+      <title>実質0カロリートースター</title>
+      <link>https://uma1100.github.io/uma/projects/0caltoaster/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/0caltoaster/</guid>
+      <description> 概要  HackDay に参加したときの作品。 ジョイコンとトースター、ラズパイを使っています。 開発環境：web(Flask) 担当箇所：webプログラム全般  内容  二人でバトル形式でジョイコンを動かす。 勝敗が決まりより激しく動いたほうがトースターを食べることができる。  ソースコード  GitHub  </description>
+    </item>
+    
+    <item>
+      <title>平成振り返りデバイス</title>
+      <link>https://uma1100.github.io/uma/projects/lookbackheise/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/lookbackheise/</guid>
+      <description> 概要  平成最後のハッカソンに参加したときの作品 開発環境：web(Flask) 担当箇所：フロントエンド・API作成・デモ動画作成   内容  物理的に振り返ることで、誰でも楽しく過去にあったことを振り替えることができる。 3Dプリンターとeps32からなるデバイス-HEISEI-から値を取得し、mqttを用いてサーバー側に送る。 スクレイピングでデータベースに元々保存していた情報にAPIでアクセスをし、振り向いた向き、速さなどの条件から携帯に表示する情報を変更しています。  デモ動画  https://vimeo.com/333354788  ソースコード  web側：GitHub ハード側：GitHub  公開サイト  https://look-back-heisei.herokuapp.com/  </description>
+    </item>
+    
+    <item>
+      <title>リォウ-酔い度測定システム-</title>
+      <link>https://uma1100.github.io/uma/projects/alcoholsensor/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/alcoholsensor/</guid>
+      <description> 概要  webiotmakersに参加したときの作品 開発環境：web 担当箇所：センサー周り、回路設計、webプログラミング   内容  自分がどれだけ酔っているか、友達がどれだけ酔っているかどうかを判断するものを作成しました。 コップ側に呼気センサ・色センサ・圧力センサを取り付け、アルコール血中濃度、飲み物の種類（ビールor日本酒）、飲んだグラス数を取得し、 酔いの状態を参考とし酔い度を表現しました。 ゲーム感覚でしてもらうために酔い度をHPに換算し、HPが指定した値以下になった場合、出力としてぬいぐるみがアクションをします。  ソースコード  GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>

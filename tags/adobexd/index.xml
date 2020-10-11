@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AdobeXD on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/adobexd/</link>
+    <description>Recent content in AdobeXD on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/adobexd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>平成振り返りデバイス</title>
+      <link>https://uma1100.github.io/uma/projects/lookbackheise/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/lookbackheise/</guid>
+      <description> 概要  平成最後のハッカソンに参加したときの作品 開発環境：web(Flask) 担当箇所：フロントエンド・API作成・デモ動画作成   内容  物理的に振り返ることで、誰でも楽しく過去にあったことを振り替えることができる。 3Dプリンターとeps32からなるデバイス-HEISEI-から値を取得し、mqttを用いてサーバー側に送る。 スクレイピングでデータベースに元々保存していた情報にAPIでアクセスをし、振り向いた向き、速さなどの条件から携帯に表示する情報を変更しています。  デモ動画  https://vimeo.com/333354788  ソースコード  web側：GitHub ハード側：GitHub  公開サイト  https://look-back-heisei.herokuapp.com/  </description>
+    </item>
+    
+    <item>
+      <title>TALCCO</title>
+      <link>https://uma1100.github.io/uma/projects/talcco/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/talcco/</guid>
+      <description> 概要  ユカイ工学のインターンに参加したときの作品 担当箇所：全部   内容  インターンのテーマが「Codamaを用いたプロトタイプの作成」というものだったので、ユカイ工学の製品であるBOCCOと 組み合わせてリアルタイムな対話ができるように。 Codamaの特徴であるノイズ軽減ができるマイクと音声方向の情報を取得し、Sebastienを用いて音声をテキスト化し、自然対話APIを用いて文章解釈をしてBOCCOが優しく話します  デモ動画  https://vimeo.com/328210072  Qiita  Qiita  発表スライド  SpeakerDeck   ソースコード  GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>

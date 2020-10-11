@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ハッカソン on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3/</link>
+    <description>Recent content in ハッカソン on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>実質0カロリートースター</title>
+      <link>https://uma1100.github.io/uma/projects/0caltoaster/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/0caltoaster/</guid>
+      <description> 概要  HackDay に参加したときの作品。 ジョイコンとトースター、ラズパイを使っています。 開発環境：web(Flask) 担当箇所：webプログラム全般  内容  二人でバトル形式でジョイコンを動かす。 勝敗が決まりより激しく動いたほうがトースターを食べることができる。  ソースコード  GitHub  </description>
+    </item>
+    
+    <item>
+      <title>TipType</title>
+      <link>https://uma1100.github.io/uma/projects/tiptype/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/tiptype/</guid>
+      <description> 概要  Hack U Tokyo に参加したときの作品。 開発環境：web 担当箇所：webプログラム全般・採点システムの構築  内容  タイピングゲームをしながらプログラミングの構文を覚えるアプリ 計算などが可能である言語に関しては競技プログラミングのようなシステムを導入し、実際にプログラミングを書いてみるというものにした。  ソースコード  GitHub   デモ動画  https://vimeo.com/354445841  </description>
+    </item>
+    
+    <item>
+      <title>平成振り返りデバイス</title>
+      <link>https://uma1100.github.io/uma/projects/lookbackheise/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/lookbackheise/</guid>
+      <description> 概要  平成最後のハッカソンに参加したときの作品 開発環境：web(Flask) 担当箇所：フロントエンド・API作成・デモ動画作成   内容  物理的に振り返ることで、誰でも楽しく過去にあったことを振り替えることができる。 3Dプリンターとeps32からなるデバイス-HEISEI-から値を取得し、mqttを用いてサーバー側に送る。 スクレイピングでデータベースに元々保存していた情報にAPIでアクセスをし、振り向いた向き、速さなどの条件から携帯に表示する情報を変更しています。  デモ動画  https://vimeo.com/333354788  ソースコード  web側：GitHub ハード側：GitHub  公開サイト  https://look-back-heisei.herokuapp.com/  </description>
+    </item>
+    
+  </channel>
+</rss>

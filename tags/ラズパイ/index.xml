@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ラズパイ on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4/</link>
+    <description>Recent content in ラズパイ on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/%E3%83%A9%E3%82%BA%E3%83%91%E3%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TALCCO</title>
+      <link>https://uma1100.github.io/uma/projects/talcco/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/talcco/</guid>
+      <description> 概要  ユカイ工学のインターンに参加したときの作品 担当箇所：全部   内容  インターンのテーマが「Codamaを用いたプロトタイプの作成」というものだったので、ユカイ工学の製品であるBOCCOと 組み合わせてリアルタイムな対話ができるように。 Codamaの特徴であるノイズ軽減ができるマイクと音声方向の情報を取得し、Sebastienを用いて音声をテキスト化し、自然対話APIを用いて文章解釈をしてBOCCOが優しく話します  デモ動画  https://vimeo.com/328210072  Qiita  Qiita  発表スライド  SpeakerDeck   ソースコード  GitHub  </description>
+    </item>
+    
+    <item>
+      <title>リォウ-酔い度測定システム-</title>
+      <link>https://uma1100.github.io/uma/projects/alcoholsensor/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/alcoholsensor/</guid>
+      <description> 概要  webiotmakersに参加したときの作品 開発環境：web 担当箇所：センサー周り、回路設計、webプログラミング   内容  自分がどれだけ酔っているか、友達がどれだけ酔っているかどうかを判断するものを作成しました。 コップ側に呼気センサ・色センサ・圧力センサを取り付け、アルコール血中濃度、飲み物の種類（ビールor日本酒）、飲んだグラス数を取得し、 酔いの状態を参考とし酔い度を表現しました。 ゲーム感覚でしてもらうために酔い度をHPに換算し、HPが指定した値以下になった場合、出力としてぬいぐるみがアクションをします。  ソースコード  GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>

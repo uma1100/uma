@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ダンボール on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB/</link>
+    <description>Recent content in ダンボール on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/%E3%83%80%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ダンボール椅子</title>
+      <link>https://uma1100.github.io/uma/projects/cardboardchair/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/cardboardchair/</guid>
+      <description> 概要  家に椅子がなかったので、あまりに余ったダンボールで作った椅子。  詳細  ダンボールで椅子を作る朝 - note  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontend on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/frontend/</link>
+    <description>Recent content in Frontend on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/frontend/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>夢を語るLT会LP</title>
+      <link>https://uma1100.github.io/uma/projects/2019dream_lt_lp/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/2019dream_lt_lp/</guid>
+      <description> 概要  代表をしているNPO法人VineTSの最初のイベントのLPを作成しました。  公開サイト  GitHub Pages  </description>
+    </item>
+    
+  </channel>
+</rss>

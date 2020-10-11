@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>インターン on Itonaga</title>
+    <link>https://uma1100.github.io/uma/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/</link>
+    <description>Recent content in インターン on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/tags/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TALCCO</title>
+      <link>https://uma1100.github.io/uma/projects/talcco/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/talcco/</guid>
+      <description> 概要  ユカイ工学のインターンに参加したときの作品 担当箇所：全部   内容  インターンのテーマが「Codamaを用いたプロトタイプの作成」というものだったので、ユカイ工学の製品であるBOCCOと 組み合わせてリアルタイムな対話ができるように。 Codamaの特徴であるノイズ軽減ができるマイクと音声方向の情報を取得し、Sebastienを用いて音声をテキスト化し、自然対話APIを用いて文章解釈をしてBOCCOが優しく話します  デモ動画  https://vimeo.com/328210072  Qiita  Qiita  発表スライド  SpeakerDeck   ソースコード  GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>

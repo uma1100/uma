@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Itonaga</title>
+    <link>https://uma1100.github.io/uma/</link>
+    <description>Recent content on Itonaga</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://uma1100.github.io/uma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Voxel・PixelArt</title>
+      <link>https://uma1100.github.io/uma/gallery/voxel-pixelart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/gallery/voxel-pixelart/</guid>
+      <description>趣味のPixelArt（ドット絵）とVoxelArtです。
+instagramに載せています。</description>
+    </item>
+    
+    <item>
+      <title>GenerativeArt</title>
+      <link>https://uma1100.github.io/uma/gallery/generative-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/gallery/generative-art/</guid>
+      <description>趣味のGenerativeArt(Processing)です。
+instagramに載せています。</description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://uma1100.github.io/uma/gallery/design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/gallery/design/</guid>
+      <description>今まで作ったポスターなどです。</description>
+    </item>
+    
+    <item>
+      <title>ダンボール椅子</title>
+      <link>https://uma1100.github.io/uma/projects/cardboardchair/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/cardboardchair/</guid>
+      <description> 概要  家に椅子がなかったので、あまりに余ったダンボールで作った椅子。  詳細  ダンボールで椅子を作る朝 - note  </description>
+    </item>
+    
+    <item>
+      <title>芸能人似てる度測定</title>
+      <link>https://uma1100.github.io/uma/projects/linefacebot/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/linefacebot/</guid>
+      <description> 概要  人の画像を読み込ませるとそれに対して感情などが返ってくるモノ   内容  face++のDetectとFasesetを用いています。  追加方法  こちら(LINEが必要です)  </description>
+    </item>
+    
+    <item>
+      <title>夢を語るLT会LP</title>
+      <link>https://uma1100.github.io/uma/projects/2019dream_lt_lp/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/2019dream_lt_lp/</guid>
+      <description> 概要  代表をしているNPO法人VineTSの最初のイベントのLPを作成しました。  公開サイト  GitHub Pages  </description>
+    </item>
+    
+    <item>
+      <title>実質0カロリートースター</title>
+      <link>https://uma1100.github.io/uma/projects/0caltoaster/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/0caltoaster/</guid>
+      <description> 概要  HackDay に参加したときの作品。 ジョイコンとトースター、ラズパイを使っています。 開発環境：web(Flask) 担当箇所：webプログラム全般  内容  二人でバトル形式でジョイコンを動かす。 勝敗が決まりより激しく動いたほうがトースターを食べることができる。  ソースコード  GitHub  </description>
+    </item>
+    
+    <item>
+      <title>TipType</title>
+      <link>https://uma1100.github.io/uma/projects/tiptype/</link>
+      <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/tiptype/</guid>
+      <description> 概要  Hack U Tokyo に参加したときの作品。 開発環境：web 担当箇所：webプログラム全般・採点システムの構築  内容  タイピングゲームをしながらプログラミングの構文を覚えるアプリ 計算などが可能である言語に関しては競技プログラミングのようなシステムを導入し、実際にプログラミングを書いてみるというものにした。  ソースコード  GitHub   デモ動画  https://vimeo.com/354445841  </description>
+    </item>
+    
+    <item>
+      <title>ZENPENのHP作成</title>
+      <link>https://uma1100.github.io/uma/projects/zenpen_hp/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/zenpen_hp/</guid>
+      <description> 概要  HPのデータ移管、新デザインのテーマ作成をしました。  公開サイト  https://www.zenpen-kosen.com/  </description>
+    </item>
+    
+    <item>
+      <title>twifav</title>
+      <link>https://uma1100.github.io/uma/projects/twifav/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/twifav/</guid>
+      <description> 概要  Twitterのお気に入り欄を取得し、日付情報が入っているツイートを取得してカレンダーに登録できるサービス。 開発環境：web(Flask) 担当箇所：全部   ソースコード  GitHub  </description>
+    </item>
+    
+    <item>
+      <title>平成振り返りデバイス</title>
+      <link>https://uma1100.github.io/uma/projects/lookbackheise/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/lookbackheise/</guid>
+      <description> 概要  平成最後のハッカソンに参加したときの作品 開発環境：web(Flask) 担当箇所：フロントエンド・API作成・デモ動画作成   内容  物理的に振り返ることで、誰でも楽しく過去にあったことを振り替えることができる。 3Dプリンターとeps32からなるデバイス-HEISEI-から値を取得し、mqttを用いてサーバー側に送る。 スクレイピングでデータベースに元々保存していた情報にAPIでアクセスをし、振り向いた向き、速さなどの条件から携帯に表示する情報を変更しています。  デモ動画  https://vimeo.com/333354788  ソースコード  web側：GitHub ハード側：GitHub  公開サイト  https://look-back-heisei.herokuapp.com/  </description>
+    </item>
+    
+    <item>
+      <title>TALCCO</title>
+      <link>https://uma1100.github.io/uma/projects/talcco/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/talcco/</guid>
+      <description> 概要  ユカイ工学のインターンに参加したときの作品 担当箇所：全部   内容  インターンのテーマが「Codamaを用いたプロトタイプの作成」というものだったので、ユカイ工学の製品であるBOCCOと 組み合わせてリアルタイムな対話ができるように。 Codamaの特徴であるノイズ軽減ができるマイクと音声方向の情報を取得し、Sebastienを用いて音声をテキスト化し、自然対話APIを用いて文章解釈をしてBOCCOが優しく話します  デモ動画  https://vimeo.com/328210072  Qiita  Qiita  発表スライド  SpeakerDeck   ソースコード  GitHub  </description>
+    </item>
+    
+    <item>
+      <title>リォウ-酔い度測定システム-</title>
+      <link>https://uma1100.github.io/uma/projects/alcoholsensor/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/alcoholsensor/</guid>
+      <description> 概要  webiotmakersに参加したときの作品 開発環境：web 担当箇所：センサー周り、回路設計、webプログラミング   内容  自分がどれだけ酔っているか、友達がどれだけ酔っているかどうかを判断するものを作成しました。 コップ側に呼気センサ・色センサ・圧力センサを取り付け、アルコール血中濃度、飲み物の種類（ビールor日本酒）、飲んだグラス数を取得し、 酔いの状態を参考とし酔い度を表現しました。 ゲーム感覚でしてもらうために酔い度をHPに換算し、HPが指定した値以下になった場合、出力としてぬいぐるみがアクションをします。  ソースコード  GitHub  </description>
+    </item>
+    
+    <item>
+      <title>Hipster Ipsum</title>
+      <link>https://uma1100.github.io/uma/blog/hipster-ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/blog/hipster-ipsum/</guid>
+      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
+    </item>
+    
+    <item>
+      <title>Startup Ipsum</title>
+      <link>https://uma1100.github.io/uma/blog/startup-ipsum/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/blog/startup-ipsum/</guid>
+      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
+    </item>
+    
+    <item>
+      <title>Coffee Ipsum</title>
+      <link>https://uma1100.github.io/uma/blog/coffee-ipsum/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/blog/coffee-ipsum/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
+    </item>
+    
+    <item>
+      <title>シガダイゴ</title>
+      <link>https://uma1100.github.io/uma/projects/shigadaigo/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/projects/shigadaigo/</guid>
+      <description> 概要  大分高専時代の作品 担当箇所：電子回路設計   デモ動画  YouTube  </description>
+    </item>
+    
+    <item>
+      <title>Undated post</title>
+      <link>https://uma1100.github.io/uma/blog/no-date/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/blog/no-date/</guid>
+      <description>I was born yesterday, tomorrow.</description>
+    </item>
+    
+  </channel>
+</rss>
