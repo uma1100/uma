@@ -6,7 +6,7 @@
     <description>Recent content on Itonaga</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://uma1100.github.io/uma/index.xml" rel="self" type="application/rss+xml" />
     
@@ -38,6 +38,15 @@ instagramに載せています。</description>
       
       <guid>https://uma1100.github.io/uma/gallery/design/</guid>
       <description>今まで作ったポスターなどです。</description>
+    </item>
+    
+    <item>
+      <title>flaskをec2でSSL化する</title>
+      <link>https://uma1100.github.io/uma/blog/ec2-flask/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://uma1100.github.io/uma/blog/ec2-flask/</guid>
+      <description>awsやgcpを触っているとどうしてもぶつかってしまうSSL化の問題。 何回もサーバーを構築しなおすことが多いため今回は</description>
     </item>
     
     <item>

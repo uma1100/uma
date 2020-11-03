@@ -29,13 +29,38 @@
   </url>
   
   <url>
+    <loc>https://uma1100.github.io/uma/tags/aws/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uma1100.github.io/uma/blog/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uma1100.github.io/uma/blog/ec2-flask/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uma1100.github.io/uma/tags/images/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uma1100.github.io/uma/tags/ipsum/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uma1100.github.io/uma/</loc>
-    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://uma1100.github.io/uma/tags/</loc>
-    <lastmod>2020-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -204,17 +229,7 @@
   </url>
   
   <url>
-    <loc>https://uma1100.github.io/uma/blog/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://uma1100.github.io/uma/blog/hipster-ipsum/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uma1100.github.io/uma/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
   </url>
   
@@ -240,11 +255,6 @@
   
   <url>
     <loc>https://uma1100.github.io/uma/blog/coffee-ipsum/</loc>
-    <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uma1100.github.io/uma/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
   </url>
   
